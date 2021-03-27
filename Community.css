@@ -1,0 +1,162 @@
+#main {
+
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    width: 700px;
+    height: 525px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+#community1 {
+    
+    width:100%;
+    height:230px;
+    text-align:justify; 
+    padding-bottom: 68px;
+    padding-left: 35px;
+    padding-top: 15px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#community2 {
+    
+    width: 50%;
+    background-color:#2BB3B1;
+    height: 280px;
+    margin-top: -84px;
+    float:left;
+    border-radius: 0px 0px 0px 10px;
+    padding-bottom: 16px;
+
+}
+
+#community3 {
+
+    background-color:#4bc7c5;
+    width: 350px;
+    height: 280px;
+    position:relative;
+    margin-left: 350px;
+    bottom: 296px;
+    float:left;
+    border-radius: 0px 0px 10px 0px;
+    padding-bottom: 16px;
+    
+}
+
+#Header1 {
+    color: #2BB3B1;
+    font-family: Trebuchet, sans-serif;
+    font-style:inherit;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#Header2 {
+    color: #BFDF32;
+    font-family: Trebuchet, sans-serif;
+    font-style:inherit;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#WhyUs {
+    position:relative;
+    color:lavender;
+    font-family: Trebuchet, sans-serif;
+    font-size: 19px;
+    font-weight: 600;
+    margin-left: 40px;
+    top: 22px;
+}
+
+#MSubscribtion {
+    color:lavender;
+    font-family: Trebuchet, sans-serif;
+    font-size: 19px;
+    font-weight:600;
+    margin-left: 40px;
+    position:relative;
+    top: 22px;
+
+}
+
+
+#Price {
+    color: lavender;
+    font-family: Verdana, sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    position:relative;
+    margin-left: 145px;
+    bottom: 33px;
+}
+
+#PriceText {
+    color:lavender;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    font-size: 16px;
+    margin-left:41px;
+    position:relative;
+    bottom: 15px;
+    
+}
+
+#SubButton {
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 17px;
+    Width:270px;
+    Height:53px;
+    margin-left:40px;
+    position:relative;
+    bottom: 8px;
+}
+
+.CommunityText {
+    color: #C2C3C5;
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.leftBottomText {
+    color:lavender;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: Verdana, sans-serif;
+    margin-left: 40px;
+    margin-top: 1px;
+    margin-bottom:7px;
+    position:relative;
+    bottom: -30px;
+}
+
+.Price {
+    color:lavender;
+    font-size: 27px;
+    font-family: Trebuchet, sans-serif;
+    font-weight: 550;
+    margin-left: 40px;
+    position:relative;
+    bottom:-22px
+}
+
+body {
+    margin:0px;
+}
+
+input {
+    color:lavender;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px 5px 5px 5px;
+    background-color:#BFDF32; /* Green */
+    border: none;
+    box-shadow: 0px 15px 20px -8px rgba(0,0,0,0.5);
+}
+
+*:focus {outline:none !important}
